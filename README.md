@@ -24,5 +24,6 @@ Proje, yazılım mühendisliği prensiplerine uygun olarak katmanlı ve modüler
 * **`__slots__` Kullanımı:** Nesne başına bellek kullanımını minimize ederek RAM verimliliği artırılmıştır.
 * **Deterministik Temizlik:** `__del__` metotları ile kullanılmayan kaynakların temizlenmesi sağlanmıştır.
 * **Vektörel İşlemler:** Gereksiz liste kopyalamalarından kaçınılarak "sıfır bellek sızıntısı" hedeflenmiştir.
-✍️ Hazırlayan
+  
+## ✍️ Hazırlayan
 Hikmet Buğra Uzun - Kırklareli Üniversitesi, Yazılım Mühendisliği Bölümü 2. Sınıf Öğrencisi
